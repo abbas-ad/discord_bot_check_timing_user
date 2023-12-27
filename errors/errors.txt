@@ -1,0 +1,1 @@
+{"code":"ER_DUP_ENTRY","errno":1062,"sqlMessage":"Duplicate entry '1030873909635063848' for key 'PRIMARY'","sqlState":"23000","index":0,"sql":"INSERT INTO users (id, username, tag, discord_profile, discord_id) VALUES ('1','!Amir._.MN','!Amir._.MN#3077','https://cdn.discordapp.com/avatars/1030873909635063848/a905941a0efacca735954fd9d46d523b.jpeg','1030873909635063848')"}
